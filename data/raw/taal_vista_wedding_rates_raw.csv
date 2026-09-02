@@ -1,0 +1,10 @@
+wedding_rate_record_id,package_category,package_name,menu_style,included_persons,package_price_php,excess_person_rate_php,source_page,currency,price_basis,verification_method,source_url,date_collected
+1,Reception,Rose Quartz,Buffet Menu,100,350000,2400,2,PHP,First 100 persons,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
+2,Reception,Rose Quartz,Set Menu,100,360000,2500,2,PHP,First 100 persons,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
+3,Reception,Blue Lace Agate,Buffet Menu,100,495000,2950,3,PHP,First 100 persons,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
+4,Reception,Blue Lace Agate,Set Menu,100,498888,2980,3,PHP,First 100 persons,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
+5,Reception,Lemon Quartz,Buffet Menu,100,685000,3200,4,PHP,First 100 persons,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
+6,Reception,Lemon Quartz,Set Menu,100,690888,3300,4,PHP,First 100 persons,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
+7,Reception,Green Jade,Buffet Menu,100,995000,3300,5,PHP,First 100 persons,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
+8,Reception,Green Jade,Set Menu,100,1000000,3350,5,PHP,First 100 persons,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
+9,Ceremony,Wedding Rites Package,Not applicable,,100000,,6,PHP,Fixed ceremony package,OCR and visual verification,https://www.taalvistahotel.com/wp-content/uploads/2026/08/Wedding-Packages.pdf,2026-09-02
