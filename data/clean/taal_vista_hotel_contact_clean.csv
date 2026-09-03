@@ -1,0 +1,6 @@
+contact_record_id,department,contact_type,contact_value,availability,contact_note,source_url,date_collected
+1,Hotel,Address,"Kilometer 60, Aguinaldo Highway, Tagaytay City 4120, Philippines",Not displayed,Official hotel address,https://www.taalvistahotel.com/contact-us/,2026-09-02
+2,General,Telephone,+63 2 7917 8225,Not displayed,General telephone number,https://www.taalvistahotel.com/contact-us/,2026-09-02
+3,Room Reservations,Mobile,+639178091254,Not displayed,Room reservation enquiries,https://www.taalvistahotel.com/contact-us/,2026-09-02
+4,Food and Beverage,Mobile,+639459766841,Not displayed,Food and beverage enquiries; Viber ready,https://www.taalvistahotel.com/contact-us/,2026-09-02
+5,Sales,Mobile,+63 9171863218,Monday to Friday | 8 AM to 4 PM,Sales enquiries,https://www.taalvistahotel.com/contact-us/,2026-09-02
