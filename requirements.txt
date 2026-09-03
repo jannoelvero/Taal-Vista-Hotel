@@ -97,6 +97,7 @@ pypdfium2==5.13.0
 pysocks==1.7.1
 pytesseract==0.3.13
 python-dateutil==2.9.0.post0
+python-dotenv==1.2.3
 python-json-logger==4.2.0
 pyyaml==6.0.3
 pyzmq==27.2.0
